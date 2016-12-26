@@ -9,4 +9,5 @@ public class Text {
     private  int id;
     private int age;
     private String name;
+    private int i;
 }
